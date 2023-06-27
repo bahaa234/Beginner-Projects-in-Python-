@@ -10,4 +10,4 @@ The way this game is played is the following:
 1- you should enter some of variables, like name, adjective etc...Or anything the story required!
 2-after collecting those vars, you put them in a story that the players don't know and the fun starts here1!
 
-that's it guy's
+that's it guys
